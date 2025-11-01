@@ -4,7 +4,7 @@
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-## 사이트 정보
+## 사이트 정보ㅇㅇㅇ
 
 **학술 연구자**: 이현서
 **현재 상태**: 서울벤처대학원대학교 경영학박사과정 (정보관리전공)  
