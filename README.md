@@ -1,4 +1,4 @@
-# 이애본의 학술 포트폴리오 웹사이트
+# 이현서의 학술 포트폴리오 웹사이트
 
 이 웹사이트는 [Academic Pages template](https://github.com/academicpages/academicpages.github.io)을 기반으로 제작된 개인 학술 포트폴리오입니다.
 
